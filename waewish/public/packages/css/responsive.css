@@ -1,0 +1,268 @@
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+	
+	.intro-text {
+		margin-top: 70px;
+		color: #fff;
+		font-size: 2.5em;
+		font-weight: 400;
+	}
+	.navbar-nav>li>a {
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+	.next-line {
+		margin-top: 10px;
+		color: #fff;
+		font-size: 1.5em;
+		font-weight: 100;
+	}
+	.third-line {
+		color: #fff;
+		margin-top: 40px;
+		font-weight: 300;
+		font-size: 1.2em;
+		letter-spacing: 1px;
+	}
+	.fourth-line {
+		color: #fff;
+		font-size: 24px;
+		font-size: 1.2em;
+		letter-spacing: 1px;
+	}
+	.how-text {
+		text-align: left;
+		font-size: 1.5em;
+		color:#000;
+		margin-top: 20px;
+		letter-spacing: 1px;
+	}
+	.how-desc {
+		color:#000;
+		font-size: 14px;
+		text-align: justify;
+	}
+	.interst-text {
+		color: #fff;
+		margin-top: 30px;
+		font-size: 18px;
+	}
+	.subscribe-head-text {
+		color: #fff;
+		font-size: 1.3em;
+		margin-top: 30px;
+	}
+	.subscribe-mid-text {
+		color: #fff;
+		font-size: 1.5em;
+		font-weight: 500;
+		margin-top: 50px;
+	}
+	.site-name{
+		margin-top: 0px;
+	}
+	#footer {
+		margin-top: 200px;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	
+	.intro-text {
+		margin-top: 70px;
+		color: #fff;
+		font-size: 2.5em;
+		font-weight: 400;
+	}
+	.navbar-nav>li>a {
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+	.next-line {
+		margin-top: 10px;
+		color: #fff;
+		font-size: 1.5em;
+		font-weight: 100;
+	}
+	.third-line {
+		color: #fff;
+		margin-top: 40px;
+		font-weight: 300;
+		font-size: 1.2em;
+		letter-spacing: 1px;
+	}
+	.fourth-line {
+		color: #fff;
+		font-size: 24px;
+		font-size: 1.2em;
+		letter-spacing: 1px;
+	}
+	.how-text {
+		font-size: 2.5em;
+		color:#000;
+		margin-top: 20px;
+		letter-spacing: 1px;
+	}
+	.how-desc {
+		color:#000;
+		font-size: 14px;
+		text-align: justify;
+	}
+	.interst-text {
+		color: #fff;
+		margin-top: 30px;
+		font-size: 18px;
+	}
+	.subscribe-head-text {
+		color: #fff;
+		font-size: 1.3em;
+		margin-top: 30px;
+	}
+	.subscribe-mid-text {
+		color: #fff;
+		font-size: 1.5em;
+		font-weight: 500;
+		margin-top: 50px;
+	}
+	.site-name{
+		margin-top: 0px;
+	}
+	#footer {
+		margin-top: 200px;
+	}
+}
+
+/* --------- Styles for Screen width Smaller than 480px -------- */
+@media only screen and (max-width: 480px) {
+	
+	
+	.intro-text {
+		margin-top: 70px;
+		color: #fff;
+		font-size: 2.5em;
+		font-weight: 400;
+	}
+	.next-line {
+		margin-top: 10px;
+		color: #fff;
+		font-size: 1.5em;
+		font-weight: 100;
+	}
+	.navbar-nav>li>a {
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+	.third-line {
+		color: #fff;
+		margin-top: 40px;
+		font-weight: 300;
+		font-size: 1.2em;
+		letter-spacing: 1px;
+	}
+	.fourth-line {
+		color: #fff;
+		font-size: 24px;
+		font-size: 1.2em;
+		letter-spacing: 1px;
+	}
+	.how-text {
+		font-size: 2.5em;
+		color: #000;
+		margin-top: 20px;
+		letter-spacing: 1px;
+	}
+	.how-desc {
+		color: #000;
+		font-size: 14px;
+		text-align: justify;
+	}
+	.interst-text {
+		color: #fff;
+		margin-top: 30px;
+		font-size: 18px;
+	}
+	.subscribe-head-text {
+		color: #fff;
+		font-size: 1.3em;
+		margin-top: 30px;
+	}
+	.subscribe-mid-text {
+		color: #fff;
+		font-size: 1.5em;
+		font-weight: 500;
+		margin-top: 50px;
+	}
+	.site-name{
+		margin-top: 0px;
+	}
+	#footer {
+		margin-top: 200px;
+	}
+}
+
+/* --------- Styles for Screen width Smaller than 360px -------- */
+@media only screen and (max-width: 360px) {
+		
+	
+	.intro-text {
+		margin-top: 70px;
+		color: #fff;
+		font-size: 2.5em;
+		font-weight: 400;
+	}
+	.navbar-nav>li>a {
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+	.next-line {
+		margin-top: 10px;
+		color: #fff;
+		font-size: 1.5em;
+		font-weight: 100;
+	}
+	.third-line {
+		color: #fff;
+		margin-top: 40px;
+		font-weight: 300;
+		font-size: 1.2em;
+		letter-spacing: 1px;
+	}
+	.fourth-line {
+		color: #fff;
+		font-size: 24px;
+		font-size: 1.2em;
+		letter-spacing: 1px;
+	}
+	.how-text {
+		font-size: 2.5em;
+		color:#000;
+		margin-top: 20px;
+		letter-spacing: 1px;
+	}
+	.how-desc {
+		color:#000;
+		font-size: 14px;
+		text-align: justify;
+	}
+	.interst-text {
+		color: #fff;
+		margin-top: 30px;
+		font-size: 18px;
+	}
+	.subscribe-head-text {
+		color: #fff;
+		font-size: 1.3em;
+		margin-top: 30px;
+	}
+	.subscribe-mid-text {
+		color: #fff;
+		font-size: 1.5em;
+		font-weight: 500;
+		margin-top: 50px;
+	}
+	.site-name{
+		margin-top: 0px;
+	}
+	#footer {
+		margin-top: 200px;
+	}
+}
